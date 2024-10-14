@@ -1,0 +1,2 @@
+
+Hey a+ mode alongwith writing it reads the file as well
